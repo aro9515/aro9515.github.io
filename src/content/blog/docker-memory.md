@@ -1,7 +1,7 @@
 ---
 title: "Docker Desktop 메모리 사용량 줄이기"
 description: "wmmem 메모리 사용량 문제 해결"
-pubDate: 2026-06-01
+pubDate: 'Jun 01 2026'
 ---
 
 # 문제
